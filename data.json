@@ -1,0 +1,54 @@
+{
+  "basics":{
+      "name":"Ganesh",
+      "email":"ganeshgns553@gmail.com",
+      "mobile":"3434343434"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation"
+  },
+  "education":[{
+    "degree":"B.Tech(C.S.E)",
+    "instiute":"AIET",
+    "data":["2015-19","76%"]
+  },
+  {
+    "degree":"Intermediate(MPC)",
+    "instiute":"Narayana",
+    "data":["2013-15","88%"]
+  },
+  {
+    "degree":"S.S.C",
+    "instiute":"Oasis",
+    "data":["2012-13","93%"]
+  }
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "info":["c","c++","java","python","R"]
+
+  },
+  {
+    "title":"Databases",
+    "info":["mongoDb","mySql","oracle"]
+
+  },
+  {
+    "title":"Web Technologies",
+    "info":["HTML5","CSS3","Javascript"]
+
+  },
+  {
+    "title":"Libraries and Frameworks",
+    "info":["ionic","Angular","express",".net","Django"]
+
+  },
+  {
+    "title":"Operating Systems",
+    "info":["Windows","Linux","Dos"]
+
+  }
+
+]
+}
